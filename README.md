@@ -16,7 +16,7 @@ Using [USB Gadget Tool](https://github.com/tejado/android-usb-gadget), this emul
 
 ## Credits
 
-Most of the code is taken from Authorizer, specifically the `authorizer/src/main/java/net/tjado/authorizer` folder.
+Most of the code is taken from [Authorizer](https://github.com/tejado/Authorizer), specifically the `authorizer/src/main/java/net/tjado/authorizer` folder.
 
 ## Contact
 
