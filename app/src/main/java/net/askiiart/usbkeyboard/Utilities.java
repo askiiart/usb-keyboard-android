@@ -13,7 +13,7 @@ import android.util.Log;
 
 public class Utilities
 {
-    final static boolean DEBUG = true;
+    final static boolean DEBUG = false;
     public static String bytesToHex(byte[] in) {
         final StringBuilder builder = new StringBuilder();
         for(byte b : in) {
